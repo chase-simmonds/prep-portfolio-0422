@@ -1,11 +1,11 @@
-.html {
+html {
   font-family: "Source Sans Pro", sans-serif;
   scroll-behavior: smooth;
 }
 
-.body {
+body {
   margin: 0;
-  background-image: url(/assets/motherboard-wallpaper.jpg);
+  background-image: url("/assets/motherboard-wallpaper.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
@@ -51,7 +51,7 @@
 }
 
 .hero-image {
-  background-image: url(assets/lfz-logo.png);
+  background-image: url("assets/lfz-logo.png");
   background-color: #303b43;
   background-position: center;
   background-repeat: no-repeat;
